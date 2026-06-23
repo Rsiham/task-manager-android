@@ -29,7 +29,7 @@ Aider les utilisateurs à organiser leurs activités et améliorer leur producti
 - Architecture MVVM
 - Gestion d'état
 
-## 📱 Écrans
+  ## 📱 Écrans
 
 - Splash Screen
 - Liste des tâches
@@ -37,7 +37,6 @@ Aider les utilisateurs à organiser leurs activités et améliorer leur producti
 - Modifier une tâche
 - Historique
 - Paramètres
-
 ## 🚧 État du projet
 
 Projet portfolio en cours de développement.
